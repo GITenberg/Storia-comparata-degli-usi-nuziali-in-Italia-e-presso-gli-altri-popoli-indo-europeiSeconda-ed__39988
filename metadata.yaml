@@ -1,0 +1,33 @@
+_repo: Storia-comparata-degli-usi-nuziali-in-Italia-e-presso-gli-altri-popoli-indo-europeiSeconda-ed__39988
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39988-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Gubernatis, Angelo
+    alias: Gubernatis, Angelo de, conte
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '2541'
+    url: http://www.gutenberg.org/2009/agents/2541
+    wikipedia: http://it.wikipedia.org/wiki/Angelo_De_Gubernatis
+description: ''
+gutenberg_bookshelf: IT Folklore
+gutenberg_issued: '2012-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39988'
+  lccn: '21021906'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marriage -- History'
+- !lcsh 'Marriage customs and rites'
+title: 'Storia comparata degli usi nuziali in Italia e presso gli altri popoli indo-europei
+
+  Seconda edizione riveduta e ampliata dall''autore'
+url: http://www.gutenberg.org/ebooks/39988
