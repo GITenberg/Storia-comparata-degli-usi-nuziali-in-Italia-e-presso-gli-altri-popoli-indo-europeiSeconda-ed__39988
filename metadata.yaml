@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2541
     wikipedia: http://it.wikipedia.org/wiki/Angelo_De_Gubernatis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39988#Storia-comparata-degli-usi-nuziali-in-Italia-e-presso-gli-altri-popoli-indo-europeiSeconda-ed_
 gutenberg_bookshelf: IT Folklore
 gutenberg_issued: '2012-06-13'
 gutenberg_type: Text
